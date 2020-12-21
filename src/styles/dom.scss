@@ -1,0 +1,58 @@
+@import './constants.scss';
+
+html,
+body {
+  background-color: #ffffff;
+  color: $black_text;
+  font-family: Roboto;
+  font-size: 13px;
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  touch-action: manipulation;
+}
+
+label {
+  margin: 0;
+}
+
+table {
+  border-spacing: 0;
+}
+
+input {
+  width: 100%;
+  border: 1px solid $border-color;
+  font-size: 13px;
+  border-radius: $border-radius;
+  padding: 0 $indent;
+  outline: none;
+  height: $height_interactive;
+  line-height: $height_interactive;
+  cursor: inherit;
+  font-family: Roboto;
+  &[readonly] {
+    color: $grey_inactive_text;
+  }
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: $black_text;
+}
+
+button {
+  border: none;
+  font-size: inherit;
+  font-family: inherit;
+}

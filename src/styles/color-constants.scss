@@ -1,0 +1,76 @@
+$blue: #5f7691;
+$blue_bright: #4c8bd9;
+$blue_rich: #2a74ba;
+$blue_pale: #9ba8b7;
+
+$green: #559110;
+$green_light: #def7eb;
+$green_dark: #007300;
+
+$red: #b2061b;
+$red_light: #f6d9d9;
+$red_dark: #7f6c6c;
+
+$red_soft: #f58123;
+$blue_dark: #FF00FF;
+$orange: #f5a523;
+$orange_light: #ffefde;
+$orange_dark: #c56352;
+
+$yellow: #F6A92A;
+
+$grey_dark: #dfe4eb;
+$grey_pale: #ECEFF1;
+$grey_background: #f7f8fa;
+
+$grey_grey: #999999;
+
+$grey_text: #909090;
+$grey_inactive_text: #9ba8b7;
+$black_text: #393e47;
+
+$border-dropdown: #e3e3e3;
+$border-color: #ebebeb;
+
+$selectable-item_hover: $grey_background;
+$selectable-item_chosen: $grey_pale;
+
+$status_active: $green;
+$status_warning: $orange;
+$status_error: $red;
+$status_inactive: $grey_grey;
+$status_default: $blue_rich;
+
+$colors: (
+        blue: $blue,
+        blue_bright: $blue_bright,
+        blue_rich: $blue_rich,
+        blue_pale: $blue_pale,
+        green: $green,
+        green_light: $green_light,
+        green_dark: $green_dark,
+        red: $red,
+        red_light: $red_light,
+        red_soft: $red_soft,
+        red_dark: $red_dark,
+        yellow: $yellow,
+        orange: $orange,
+        orange_light: $orange_light,
+        orange_dark: $orange_dark,
+        grey_dark: $grey_dark,
+        grey_pale: $grey_pale,
+        grey_background: $grey_background,
+        grey_text: $grey_text,
+        grey_inactive_text: $grey_inactive_text,
+        grey_grey: $grey_grey,
+        black_text: $black_text,
+
+        border-dropdown: $border-dropdown,
+        border-color: $border-dropdown,
+);
+
+.hover_ {
+  &grey:hover {
+    background: $grey_background !important;
+  }
+}

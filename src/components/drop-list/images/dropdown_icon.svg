@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="4px" viewBox="0 0 7 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>dropdown icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dropdown-icon" transform="translate(-3.000000, -5.000000)" fill="#5F7691">
+            <path d="M8.52118187,6.84277916 L8.53553391,6.8571312 L5.70710678,9.68555832 L5,8.97845154 L7.13567238,6.84277916 L5,4.70710678 L5.70710678,4 L8.53553391,6.82842712 L8.52118187,6.84277916 Z" transform="translate(6.767767, 6.842779) rotate(90.000000) translate(-6.767767, -6.842779) "></path>
+        </g>
+    </g>
+</svg>

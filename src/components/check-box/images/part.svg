@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>checkbox -checked</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="14" rx="4"></rect>
+        <rect id="path-2" x="0" y="0" width="14" height="14" rx="3"></rect>
+    </defs>
+    <g id="Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="library-procontext-elements" transform="translate(-21.000000, -18.000000)">
+            <g id="checkbox--checked" transform="translate(21.000000, 18.000000)">
+                <g id="checkbox-2-checked">
+                    <g id="checkbox-unchecked">
+                        <g id="checkbox">
+                            <g id="checkbox-unchecked">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <rect stroke="#DBDBDB" stroke-width="1" x="0.5" y="0.5" width="13" height="13" rx="4"></rect>
+                            </g>
+                            <g id="checkbox-unchecked">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                <rect stroke="#DBDBDB" stroke-width="1" x="0.5" y="0.5" width="13" height="13" rx="3"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-3" fill="#303030" x="5" y="6" width="4" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
