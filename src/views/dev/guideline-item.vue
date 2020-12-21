@@ -37,21 +37,6 @@
         {{data.description}}
       </div>
     </div>
-    <div class="text-block" v-if="data.examples">
-      <div class="flex-start c_pointer"
-           @click="toggle('examples')">
-        <div class="expander_period"
-             :class="{active: show.examples}">
-
-        </div>
-        <div class="header">
-          Примеры применения:
-        </div>
-      </div>
-      <div v-if="show.examples" class="text-content">
-        {{data.examples}}
-      </div>
-    </div>
     <div class="text-block" v-if="data.details">
       <div class="flex-start c_pointer"
            @click="toggle('details')">
@@ -82,7 +67,6 @@ export default {
       show: {
         tech: true,
         description: true,
-        examples: true,
         details: true
       }
     };
